@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "loader-runner": "^4.3.0"
+  },
+  "devDependencies": {
+    "spritesmith": "^3.4.0"
   }
 }
